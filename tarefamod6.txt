@@ -1,0 +1,25 @@
+Inicio
+
+	1. Abrir os olhos;
+	2. Olhar a hora;
+	3. Se for 06h30 da manhã;
+		1. Levantar da cama;
+		2. Ascender a luz;
+		3. Ir até o banheiro;
+		4. Sair do banheiro;
+		5. Ir até a cozinha;
+		6. Colocar água na chaleira;
+		7. Colocar chaleira sob fogão e ligá-lo;
+		8. Após ferver desligar fogão;
+		9. Servir a água na xícara;
+		10. Adicionar 2 colheres de chá de café soluvél;
+		11. Beber o café;
+		12. Voltar para o quarto;
+		13. Se vestir para o trabalho;
+		14. Sair do quarto;
+		15. Deslocar até porta principal;
+		16. Ir para o trabalho;
+	4. Se não for 06h30 da manhã;
+		1. Fechar os olhos;
+		2. Voltar a dormir;
+Fim
